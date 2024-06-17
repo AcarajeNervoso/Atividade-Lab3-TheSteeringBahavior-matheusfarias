@@ -7,3 +7,6 @@
  Foi adicionado ao codigo também uma sessão switch, onde o os npcs trocam de nome conforme a ação definidas para eles sendo:
 
 Idle => Evade => Idle / Idle => Seek / Idle => Flee => Idle.
+
+
+Versão da unity utilizada: 2022.3.2f1
